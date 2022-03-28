@@ -3,8 +3,8 @@ title: FEIT
 subtitle: Norway
 email: dexterdexter@gmail.com
 description: The official website of the Filipino Engineers and IT Professionals of Norway (FEIT)
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/feit" # the subpath of your site, e.g. /blog
+url: http://nsswaga.github.com # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
